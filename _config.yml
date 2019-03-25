@@ -1,0 +1,6 @@
+title: Trivelyan Dashboard
+logo: /assets/img/logo.png
+description: Trivelyan is web based graphical Heroku App management dashboard.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
