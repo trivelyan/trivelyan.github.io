@@ -13,7 +13,7 @@ After following commands Trivelyan run in localhost on port 5000.
 
 ```sh
 pip install -r requements.txt
-python app.py
+sudo python app.py
 ```
 
 ### login page 
