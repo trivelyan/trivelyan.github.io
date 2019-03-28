@@ -11,8 +11,20 @@ Trivelyan is a web based management dashboard. While make transactions in the He
 ### for run and fun 
 After following commands Trivelyan run in localhost on port 5000.
 
+##### complate installing requirements (you don't have virtualenv)
 ```sh
-pip install -r requements.txt
+git clone https://github.com/trivelyan/trivelyan-dashboard.git
+cd trivelyan-dashboard
+pip install -r requirements.txt
+sudo python app.py
+```
+
+##### for use the virtualenv
+```sh
+pip install virtualenv
+git clone https://github.com/trivelyan/trivelyan-dashboard.git
+cd trivelyan-dashboard
+source bin/activate
 sudo python app.py
 ```
 
