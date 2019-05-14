@@ -8,12 +8,11 @@ Trivelyan is a web based management dashboard. While make transactions in the He
 
 > [flask microframework](http://flask.pocoo.org/)
 
-> [You can download **trivelyan docker container**](https://hub.docker.com/r/tlhcelik/trivelyan-container)
+> [You can download **trivelyan docker container**](https://hub.docker.com/r/trivelyan/trivelyan)
 
 ```sh
-docker pull tlhcelik/trivelyan-container
-cd trivelyan-container
-docker run -d  .
+docker pull trivelyan/trivelyan
+docker run -p 80:5000 trivelyan/trivelyan
 ```
 
 ### for run and fun 
