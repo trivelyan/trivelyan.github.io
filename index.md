@@ -1,5 +1,5 @@
 
-# trivelyan
+# trivelyan [![Build Status](https://travis-ci.com/trivelyan/trivelyan-dashboard.svg?branch=master)](https://travis-ci.com/trivelyan/trivelyan-dashboard)
 
 [Go to Trivelyan Web Page](https://trivelyan.herokuapp.com).
 
